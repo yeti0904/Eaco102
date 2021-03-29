@@ -1,0 +1,6 @@
+
+EACO Version 1.0.2
+This update was created by MESYETI
+This update introduces compression blocking to prevent glitching of the EACO prompt
+A new immersive mode is introduced
+
